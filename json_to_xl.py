@@ -10,7 +10,7 @@ def json_to_excel(json_file, excel_file):
     print(f"JSON data has been successfully converted to Excel format: {excel_file}")
 
 #Example usage
-json_file = "D:\\OneDrive - Olam International\\Desktop\\email project\\product_re‪view.json"
-excel_file = "D:\\OneDrive - Olam International\\Desktop\\email project\\output.xlsx"
+json_file = "product_re‪view.json"
+excel_file = "output.xlsx"
 
 json_to_excel(json_file, excel_file)
